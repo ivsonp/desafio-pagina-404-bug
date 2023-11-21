@@ -8,5 +8,6 @@ Layout atual
 
 Layout esperado
 
-![image](https://github.com/ivsonp/desafio-pagina-404-bug/assets/151571037/63824172-e224-432e-8749-088eaa5abead)
+![image](https://github.com/ivsonp/desafio-pagina-404-bug/assets/151571037/31aa3282-2bff-4602-b9a7-5d52f481e5e3)
+
 
